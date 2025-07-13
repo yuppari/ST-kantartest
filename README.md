@@ -1,7 +1,7 @@
 [![test-kantarscene-cover-page.jpg](https://i.postimg.cc/Y9Hm8csV/test-kantarscene-cover-page.jpg)](#)
 <br> I made a violent scene test using multiple models on SillyTavern. 
 
-[Read LLM-isms here!](reddit.com/u/organic-mechanic-435)
+[Read LLM-isms here!](https://www.reddit.com/user/Organic-Mechanic-435/submitted/)
 
 ---
 
